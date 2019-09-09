@@ -1,0 +1,1 @@
+public static System.Data.Entity.Core.Common.CommandTrees.DbFunctionExpression Distance (this System.Data.Entity.Core.Common.CommandTrees.DbExpression spatialValue1, System.Data.Entity.Core.Common.CommandTrees.DbExpression spatialValue2);

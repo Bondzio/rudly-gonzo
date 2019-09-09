@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<reference target="https://www.rfc-editor.org/info/rfc4844" anchor="RFC4844">
+<front>
+<title>The RFC Series and RFC Editor</title>
+<author role="editor" fullname="L. Daigle" surname="Daigle" initials="L.">
+<organization/>
+</author>
+<author>
+<organization>Internet Architecture Board</organization>
+</author>
+<date month="July" year="2007"/>
+<abstract>
+<t>This document describes the framework for an RFC Series and an RFC Editor function that incorporate the principles of organized community involvement and accountability that has become necessary as the Internet technical community has grown, thereby enabling the RFC Series to continue to fulfill its mandate. This memo provides information for the Internet community.</t>
+</abstract>
+</front>
+<seriesInfo name="RFC" value="4844"/>
+<seriesInfo name="DOI" value="10.17487/RFC4844"/>
+</reference>
